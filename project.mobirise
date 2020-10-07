@@ -50,7 +50,7 @@
         "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "imageResize": true,
+    "imageResize": false,
     "favicon": "@PROJECT_PATH@/assets/images/klava-fav-128x128.png",
     "canonical-url": "https://www.klava.ml",
     "cssOptimize": false,
